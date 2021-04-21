@@ -20,7 +20,7 @@ A Software Developer specializing in backend technologies. Experience with the t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="90" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="60" height="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 <img src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" alt="Kali" width="50" height="50"/>
 
 
