@@ -2,7 +2,7 @@
 
 ---
 
-A Software Developer specializing in backend technologies. Experience with the technologies listed in the **toolbox** below (not exhaustive).
+A Software Developer intersted in so many things ! 🙈 Experience with the technologies listed in the **toolbox** below (not exhaustive).
 
 ---
 
@@ -17,6 +17,7 @@ A Software Developer specializing in backend technologies. Experience with the t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/25793363/208103317-f59eafe3-5a68-4daa-b623-acddaef34fea.svg" alt="Elasticsearch" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="90" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="60" height="60"/>
