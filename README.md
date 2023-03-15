@@ -3,6 +3,7 @@
 ---
 
 A Software Developer intersted in so many things ! 🙈 Experience or in progress with the technologies listed in the **toolbox** below (not exhaustive).
+I mostly work in private ou self-hosted repos. 
 
 ---
 
