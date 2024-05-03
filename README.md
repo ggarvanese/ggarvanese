@@ -2,12 +2,12 @@
 
 ---
 
-A Software Developer. Experience with the technologies listed in the **toolbox** below (not exhaustive).
+A Software Developer. <!--Experience with the technologies listed in the **toolbox** below (not exhaustive).-->
 
 I mostly work in private ou self-hosted corporate repositories.
 
 ---
-
+<!--
 🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" title="Scala" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/> 
@@ -24,7 +24,7 @@ I mostly work in private ou self-hosted corporate repositories.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="90" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" title="Ansible" width="60" height="60"/>
 <img src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" alt="Kali Linux" title="Kali Linux" width="50" height="50"/>
-
+-->
 
 <!--
 **ggarvanese/ggarvanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
